@@ -8,8 +8,8 @@ If u press the ` key its open a new window of ur choice
 3. Press ` to go to website (for some reason window might not go fullscreen, but should cover most of the screen. U can still go fullscreen by clicking the fullscreen button)
 4. Boom! Then just close the window to return to the things u had open
 
-5. # How to install
-6. There are 2 ways,
+# How to install
+There are 2 ways,
 
 bookmark method, this will make it so when you press the bookmark the menu opens How to install.
 ```
